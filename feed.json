@@ -7,7 +7,7 @@
 	"documents": [
 	{
 		"title" : "Ordiniamo",
-		"overviewSubtitle" : "Ragionanado sull'ordinamento di vettori",
+		"overviewSubtitle" : "Ragionando sull'ordinamento di vettori",
 		"detailSubtitle": "Ordinamento Bubblesort e Per scambio",
 		"description": "Playground realizzato durante un corso di formazione docenti",
 		"contentIdentifier": "io.github.giobus.ordiniamo",
