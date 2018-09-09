@@ -46,7 +46,7 @@
         "previewImageURLs" : ["https://giobus.github.io/cicliEcolori/previewImage1.png","https://giobus.github.io/cicliEcolori/previewImage2.png","https://giobus.github.io/cicliEcolori/previewImage2.png"]
     },
     {
-        "title" : "orologio",
+        "title" : "Orologio",
         "overviewSubtitle" : "Conoscere il piano cartesiano",
         "detailSubtitle": "Costruiamo un orologio posizionando correttamente in un piano cartesiano i suoi elementi",
         "description": "Questo playground, ricavato dal MODELLO SHAPES, è stato realizzato durante un corso di formazione docenti",
