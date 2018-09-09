@@ -24,7 +24,27 @@
 		}
 		],
 		"previewImageURLs" : ["https://giobus.github.io/ordiniamo/previewImage.png","https://giobus.github.io/ordiniamo/bannerImage.png","https://giobus.github.io/ordiniamo/previewImage2.png"  ]
-	}
+	},
+                  {
+                  "title" : "Cicli e colori",
+                  "overviewSubtitle" : "Impariamo ad utilizzare i cicli",
+                  "detailSubtitle": "Realizzare disegni geometrici colorati utilizzando i cicli",
+                  "description": "Playground realizzato durante un corso di formazione docenti",
+                  "contentIdentifier": "io.github.giobus.cicliEcolori",
+                  "contentVersion": "1.0",
+                  "url": "https://giobus.github.io/cicliEcolori/cicliEcolori.playgroundbook.zip",
+                  "publishedDate": "2018-07-09T09:00:00+07:00",
+                  "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+                  "thumbnailURL": "https://giobus.github.io/cicliEcolori/thumbnail.png",
+                  "bannerImageURL" : "https://giobus.github.io/cicliEcolori/previewImage1.png",
+                  "additionalInformation" : [
+                                             {
+                                             "name": "Pensato per",
+                                             "value": "scuola secondaria secondo grado"
+                                             }
+                                             ],
+                  "previewImageURLs" : ["https://giobus.github.io/cicliEcolori/previewImage1.png","https://giobus.github.io/cicliEcolori/bannerImage.png","https://giobus.github.io/cicliEcolori/previewImage2.png"  ]
+                  }
 ]
 }
 
