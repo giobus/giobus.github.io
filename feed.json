@@ -29,7 +29,7 @@
         "title" : "Cicli e colori",
         "overviewSubtitle" : "Impariamo ad utilizzare i cicli",
         "detailSubtitle": "Realizzare semplici disegni geometrici colorati utilizzando i cicli",
-        "description": "Playground realizzato durante un corso di formazione docenti",
+        "description": "Questo playground, ricavato dal MODELLO SHAPES, è stato realizzato durante un corso di formazione docenti",
         "contentIdentifier": "io.github.giobus.cicliEcolori",
         "contentVersion": "1.0",
         "url": "https://giobus.github.io/cicliEcolori/cicliEcolori.playgroundbook.zip",
@@ -44,7 +44,27 @@
                                     }
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/cicliEcolori/previewImage1.png","https://giobus.github.io/cicliEcolori/previewImage2.png","https://giobus.github.io/cicliEcolori/previewImage2.png"]
-    }
+    },
+    {
+        "title" : "orologio",
+        "overviewSubtitle" : "Conoscere il piano cartesiano",
+        "detailSubtitle": "Costruiamo un orologio posizionando correttamente in un piano cartesiano i suoi elementi",
+        "description": "Questo playground, ricavato dal MODELLO SHAPES, è stato realizzato durante un corso di formazione docenti",
+        "contentIdentifier": "io.github.giobus.orologio",
+                  "contentVersion": "1.0",
+                  "url": "https://giobus.github.io/orologio/orologio.playgroundbook.zip",
+                  "publishedDate": "2018-07-09T09:00:00+07:00",
+                  "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+                  "thumbnailURL": "https://giobus.github.io/orologio/thumbnail.png",
+                  "bannerImageURL" : "https://giobus.github.io/orologio/bannerImage.png",
+                  "additionalInformation" : [
+                                             {
+                                             "name": "Pensato per",
+                                             "value": "scuola secondaria secondo grado"
+                                             }
+                                             ],
+                  "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage.png","https://giobus.github.io/orologio/bannerImage.png","https://giobus.github.io/orologio/previewImage2.png"  ]
+                  },
 ]
 }
 
