@@ -63,8 +63,8 @@
                                              "value": "scuola secondaria"
                                              }
                                              ],
-                  "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"  ]
-                  },
+                  "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
+    },
     {
         "title" : "Stringhe e analisi del periodo",
         "overviewSubtitle" : "Creare un semplice test interattivo di analisi del periodo",
@@ -82,7 +82,7 @@
                                     "value": "scuola secondaria primo grado"
                                     }
                                 ],
-        "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"  ]
+        "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"]
                   }
 ]
 }
