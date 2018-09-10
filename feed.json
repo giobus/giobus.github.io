@@ -65,7 +65,7 @@
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
     }
-   /* {
+    {
         "title" : "Stringhe e analisi del periodo",
         "overviewSubtitle" : "Creare un semplice test interattivo di analisi del periodo",
         "detailSubtitle": "Vengono esaminate alcune funzioni per il trattamento delle stringhe che vengono poi utilizzate per proporre l'analisi del periodo di una semplice frase in modalità interattiva. ",
@@ -84,7 +84,7 @@
                                     }
                                 ],
         "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"]
-                  }*/
+                  }
 ]
 }
 
