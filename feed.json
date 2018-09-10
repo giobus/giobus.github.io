@@ -69,7 +69,7 @@
         "title" : "Stringhe e analisi del periodo",
         "overviewSubtitle" : "Creiamo un test interattivo di analisi del periodo",
         "detailSubtitle": "Utilizzare le funzioni base del trattamento stringhe per proporre l'analisi del periodo di una frase",
-        "description": "Questo playground, ricavato dal MODELLO ANSWERS (Risposte), è stato realizzato durante un corso di formazione docenti.",
+        "description": "Questo playground, ricavato dal MODELLO ANSWERS (Risposte), è stato realizzato durante un corso di formazione docenti. Si propone agli studenti di esplorare alcune funzioni base del trattamento stringhe e di utilizzarle per costruire un semplice test di analisi di periodo di una frase. Tali test prodotti dai singoli possono essere proposti all'intera classe in una sfida di gruppo per esercitarsi in un modo divertente nell'analisi del periodo. ",
         "contentIdentifier": "io.github.giobus.analisiPeriodo",
         "contentVersion": "1.0",
         "url": "https://giobus.github.io/analisiPeriodo/analisiPeriodo.playgroundbook.zip",
