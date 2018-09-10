@@ -64,7 +64,7 @@
                                     }
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
-    }
+    },
     {
         "title" : "Stringhe e analisi del periodo",
         "overviewSubtitle" : "Creare un semplice test interattivo di analisi del periodo",
