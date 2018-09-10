@@ -64,27 +64,7 @@
                                     }
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
-    },
-    {
-        "title" : "Stringhe e analisi del periodo",
-        "overviewSubtitle" : "Creare un semplice test interattivo di analisi del periodo",
-        "detailSubtitle": "Vengono esaminate alcune funzioni per il trattamento delle stringhe che vengono poi utilizzate per proporre l'analisi del periodo di una semplice frase in modalità interattiva. ",
-        "description": "Questo playground, ricavato dal MODELLO ANSWERS (Risposte), è stato realizzato durante un corso di formazione docenti. Si richiede agli studenti di costruire l'analisi del periodo di una frase, proponendone poi la soluzione interattiva ai compagni. Questa semplice attività può essere utilizzata per creare una sorta di sfida all'interno della classe in modo che divertendosi gli studenti si allenino sull'analisi del periodo.",
-        "contentIdentifier": "io.github.giobus.analisiPeriodo",
-        "contentVersion": "1.0",
-        "url": "https://giobus.github.io/analisiPeriodo/analisiPeriodo.playgroundbook.zip",
-        "publishedDate": "2018-07-09T09:00:00+07:00",
-        "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
-        "thumbnailURL": "https://giobus.github.io/analisiPeriodo/thumbnail.png",
-        "bannerImageURL" : "https://giobus.github.io/analisiPeriodo/previewImage3.png",
-        "additionalInformation" : [
-                                    {
-                                    "name": "Pensato per",
-                                    "value": "scuola secondaria primo grado"
-                                    }
-                                ],
-        "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"]
-                  }
+    }
 ]
 }
 
