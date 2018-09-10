@@ -51,21 +51,21 @@
         "detailSubtitle": "Costruiamo un orologio posizionando correttamente in un piano cartesiano i suoi elementi",
         "description": "Questo playground, ricavato dal MODELLO SHAPES (Forme), è stato realizzato durante un corso di formazione docenti. Si richiede agli studenti di simulare un orologio utilizzando figure geometriche e numeri opportunamente posizionati nel piano cartesiano. Questo consente di capire perfettamente come orientarsi, appunto, nel piano cartesiano.",
         "contentIdentifier": "io.github.giobus.orologio",
-                  "contentVersion": "1.0",
-                  "url": "https://giobus.github.io/orologio/orologio.playgroundbook.zip",
-                  "publishedDate": "2018-07-09T09:00:00+07:00",
-                  "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
-                  "thumbnailURL": "https://giobus.github.io/orologio/thumbnail.png",
-                  "bannerImageURL" : "https://giobus.github.io/orologio/previewImage3.png",
-                  "additionalInformation" : [
-                                             {
-                                             "name": "Pensato per",
-                                             "value": "scuola secondaria"
-                                             }
-                                             ],
-                  "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
-    },
-    {
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/orologio/orologio.playgroundbook.zip",
+        "publishedDate": "2018-07-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/orologio/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/orologio/previewImage3.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
+    }
+   /* {
         "title" : "Stringhe e analisi del periodo",
         "overviewSubtitle" : "Creare un semplice test interattivo di analisi del periodo",
         "detailSubtitle": "Vengono esaminate alcune funzioni per il trattamento delle stringhe che vengono poi utilizzate per proporre l'analisi del periodo di una semplice frase in modalità interattiva. ",
@@ -84,7 +84,7 @@
                                     }
                                 ],
         "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"]
-                  }
+                  }*/
 ]
 }
 
