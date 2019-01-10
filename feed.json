@@ -84,6 +84,26 @@
                                     }
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"]
+    },
+    {
+        "title" : "Paradosso dei compleanni",
+        "overviewSubtitle" : "Qual è la probabilità che in un gruppo due persone compiano gli anni nello stesso giorno? ",
+        "detailSubtitle": "Calcolare la probabilità e valutarne i valori al variare della numerosità del gruppo",
+        "description": "Questo playground, ricavato dal MODELLO GRAPHICS (Grafici), è stato realizzato durante un corso di formazione docenti. Si propone agli studenti di esplorare alcune funzioni base del trattamento stringhe e di utilizzarle per costruire un semplice test di analisi di periodo di una frase. Tali test prodotti dai singoli possono essere proposti all'intera classe in una sfida di gruppo per esercitarsi in un modo divertente nell'analisi del periodo. ",
+        "contentIdentifier": "io.github.giobus.compleanni",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/compleanni/compleanni.playgroundbook.zip",
+        "publishedDate": "2019-01-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2019-01-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/compleanni/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/compleanni/previewImage3.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria di secondo grado"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/compleanni/previewImage1.png","https://giobus.github.io/compleanni/previewImage2.png","https://giobus.github.io/compleanni/previewImage3.png"]
     }
 ]
 }
