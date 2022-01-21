@@ -104,6 +104,26 @@
                                     }
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/compleanni/previewImage1.png","https://giobus.github.io/compleanni/previewImage2.png","https://giobus.github.io/compleanni/previewImage3.png"]
+    },
+    {
+        "title" : "Il mio Mondrian",
+        "overviewSubtitle" : "Prendiamo ispirazione dai quadi di Mondrian ... ",
+        "detailSubtitle": "Disegnare con l'utilizzo di alcune funzioni basilari di SpriteKit",
+        "description": "Questo playground, ricavato dal MODELLO FORME, è stato realizzato per essere utilizzato in laboratori con studente di scuola seconbdaria di primo grado. ",
+        "contentIdentifier": "io.github.giobus.ilmiomondrian",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/ilmiomondrian/ilmiomondrian.playgroundbook.zip",
+        "publishedDate": "2021-02-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2021-02-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/ilmiomondrian/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/ilmiomondrian/previewImage3.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria di primo grado"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/ilmiomondrian/previewImage1.png","https://giobus.github.io/ilmiomondrian/previewImage2.png"]
     }
 ]
 }
