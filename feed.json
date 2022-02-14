@@ -1,4 +1,4 @@
-{
+m{
 	"title": "Giobus Playgrounds",
 	"publisherName": "Giovanna Busconi",
 	"feedIdentifier" : "io.github.giobus",
@@ -127,10 +127,15 @@
     },
     {
         "title" : "Forme-Animaletto",
+<<<<<<< HEAD
         "overviewSubtitle" : "Partiamo delle forme geometriche elementari per costruire un animaletto ",
         "detailSubtitle": "Comporre un disegno geometrico",
+=======
+        "overviewSubtitle" : "Forme geometriche per comporre un animaletto",
+        "detailSubtitle": "Componiamo un disegno geometrico partendo da rettangoli, linee, cerchi e poligoni",
+>>>>>>> 51460fdd71e5a9acf19b0c4c300639ce29c536f7
         "description": "Questo playground, ricavato dal MODELLO FORME, è stato realizzato per essere utilizzato in laboratori con studente di scuola secondaria di primo grado. ",
-        "contentIdentifier": "io.github.giobus.forme-animaletto",
+        "contentIdentifier": "io.github.giobus.animaletto",
         "contentVersion": "1.0",
         "url": "https://giobus.github.io/animaletto/Forme-Animaletto.playgroundbook.zip",
         "publishedDate": "2022-01-09T09:00:00+07:00",
