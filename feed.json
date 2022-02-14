@@ -1,0 +1,130 @@
+{
+	"title": "Giobus Playgrounds",
+	"publisherName": "Giovanna Busconi",
+	"feedIdentifier" : "io.github.giobus",
+	"contactURL" : "mailto:giovanna.busconi@gmail.com",
+	"formatVersion": "1.1",
+	"documents": [
+	{
+		"title" : "Ordiniamo",
+		"overviewSubtitle" : "Ragionando sull'ordinamento di vettori",
+		"detailSubtitle": "Ordinamento Bubblesort e Per scambio",
+		"description": "Playground realizzato durante un corso di formazione docenti. Si richiede agli studenti di implementare due diversi algoritmi di ordinamento di vettori e, ragionando sulla loro efficienza, arrivare ad una soluzione ottimizzata",
+		"contentIdentifier": "io.github.giobus.ordiniamo",
+		"contentVersion": "1.0",
+		"url": "https://giobus.github.io/ordiniamo/ordiniamo.playgroundbook.zip",
+		"publishedDate": "2018-07-09T09:00:00+07:00",
+		"lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+		"thumbnailURL": "https://giobus.github.io/ordiniamo/thumbnail.png",
+		"bannerImageURL" : "https://giobus.github.io/ordiniamo/bannerImage.png",
+		"additionalInformation" : [
+		{
+		"name": "Pensato per",
+		"value": "scuola secondaria secondo grado"
+		}
+		],
+		"previewImageURLs" : ["https://giobus.github.io/ordiniamo/previewImage.png","https://giobus.github.io/ordiniamo/bannerImage.png","https://giobus.github.io/ordiniamo/previewImage2.png"  ]
+	},
+    {
+        "title" : "Cicli e colori",
+        "overviewSubtitle" : "Impariamo ad utilizzare i cicli",
+        "detailSubtitle": "Realizzare semplici disegni geometrici colorati utilizzando i cicli",
+        "description": "Questo playground, ricavato dal MODELLO SHAPES (Forme), è stato realizzato durante un corso di formazione docenti. Per verificare se gli studenti hanno capito l'utilizzo corretto di semplici cicli, vengono invitati a disegnare figure geometriche colorate.",
+        "contentIdentifier": "io.github.giobus.cicliEcolori",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/cicliEcolori/cicliEcolori.playgroundbook.zip",
+        "publishedDate": "2018-07-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/cicliEcolori/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/cicliEcolori/previewImage1.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/cicliEcolori/previewImage1.png","https://giobus.github.io/cicliEcolori/previewImage2.png","https://giobus.github.io/cicliEcolori/previewImage2.png"]
+    },
+    {
+        "title" : "Orologio",
+        "overviewSubtitle" : "Conoscere il piano cartesiano",
+        "detailSubtitle": "Costruiamo un orologio posizionando correttamente in un piano cartesiano i suoi elementi",
+        "description": "Questo playground, ricavato dal MODELLO SHAPES (Forme), è stato realizzato durante un corso di formazione docenti. Si richiede agli studenti di simulare un orologio utilizzando figure geometriche e numeri opportunamente posizionati nel piano cartesiano. Questo consente di capire perfettamente come orientarsi, appunto, nel piano cartesiano.",
+        "contentIdentifier": "io.github.giobus.orologio",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/orologio/orologio.playgroundbook.zip",
+        "publishedDate": "2018-07-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/orologio/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/orologio/previewImage3.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/orologio/previewImage1.png","https://giobus.github.io/orologio/previewImage2.png","https://giobus.github.io/orologio/previewImage3.png"]
+    },
+    {
+        "title" : "Stringhe e analisi del periodo",
+        "overviewSubtitle" : "Creiamo un test interattivo di analisi del periodo",
+        "detailSubtitle": "Utilizzare le funzioni base del trattamento stringhe per proporre l'analisi del periodo di una frase",
+        "description": "Questo playground, ricavato dal MODELLO ANSWERS (Risposte), è stato realizzato durante un corso di formazione docenti. Si propone agli studenti di esplorare alcune funzioni base del trattamento stringhe e di utilizzarle per costruire un semplice test di analisi di periodo di una frase. Tali test prodotti dai singoli possono essere proposti all'intera classe in una sfida di gruppo per esercitarsi in un modo divertente nell'analisi del periodo. ",
+        "contentIdentifier": "io.github.giobus.analisiPeriodo",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/analisiPeriodo/analisiPeriodo.playgroundbook.zip",
+        "publishedDate": "2018-07-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2018-07-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/analisiPeriodo/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/analisiPeriodo/previewImage3.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria di primo grado"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/analisiPeriodo/previewImage1.png","https://giobus.github.io/analisiPeriodo/previewImage2.png","https://giobus.github.io/analisiPeriodo/previewImage3.png"]
+    },
+    {
+        "title" : "Paradosso dei compleanni",
+        "overviewSubtitle" : "Qual è la probabilità che in un gruppo due persone compiano gli anni nello stesso giorno? ",
+        "detailSubtitle": "Calcolare la probabilità e valutarne i valori al variare della numerosità del gruppo",
+        "description": "Questo playground, ricavato dal MODELLO GRAPHICS (Grafici), è stato realizzato durante un corso di formazione docenti. Si propone agli studenti di esplorare alcune funzioni base del trattamento stringhe e di utilizzarle per costruire un semplice test di analisi di periodo di una frase. Tali test prodotti dai singoli possono essere proposti all'intera classe in una sfida di gruppo per esercitarsi in un modo divertente nell'analisi del periodo. ",
+        "contentIdentifier": "io.github.giobus.compleanni",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/compleanni/compleanni.playgroundbook.zip",
+        "publishedDate": "2019-01-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2019-01-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/compleanni/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/compleanni/previewImage3.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria di secondo grado"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/compleanni/previewImage1.png","https://giobus.github.io/compleanni/previewImage2.png","https://giobus.github.io/compleanni/previewImage3.png"]
+    },
+    {
+        "title" : "Il mio Mondrian",
+        "overviewSubtitle" : "Prendiamo ispirazione dai quadi di Mondrian ... ",
+        "detailSubtitle": "Disegnare con l'utilizzo di alcune funzioni basilari di SpriteKit",
+        "description": "Questo playground, ricavato dal MODELLO FORME, è stato realizzato per essere utilizzato in laboratori con studente di scuola seconbdaria di primo grado. ",
+        "contentIdentifier": "io.github.giobus.ilmiomondrian",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/ilmiomondrian/ilMioMondrian.playgroundbook.zip",
+        "publishedDate": "2021-02-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2021-02-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/ilmiomondrian/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/ilmiomondrian/previewImage2.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria di primo grado"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/ilmiomondrian/previewImage1.png","https://giobus.github.io/ilmiomondrian/previewImage2.png"]
+    }
+]
+}
+
