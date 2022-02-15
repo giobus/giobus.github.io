@@ -124,6 +124,26 @@
                                     }
                                     ],
         "previewImageURLs" : ["https://giobus.github.io/ilmiomondrian/previewImage1.png","https://giobus.github.io/ilmiomondrian/previewImage2.png"]
+    },
+    {
+        "title" : "Forme - Animaletto",
+        "overviewSubtitle" : "Partendo da forme geometriche elementari costruiamo un animaletto ",
+        "detailSubtitle": "Utilizzare le funzioni per organizzare il codice",
+        "description": "Questo playground, ricavato dal MODELLO FORME, è stato realizzato per essere utilizzato in laboratori con studente di scuola seconbdaria di primo grado. ",
+        "contentIdentifier": "io.github.giobus.animaletto",
+        "contentVersion": "1.0",
+        "url": "https://giobus.github.io/animaletto/Forme-Animaletto.playgroundbook.zip",
+        "publishedDate": "2021-02-09T09:00:00+07:00",
+        "lastUpdatedDate" : "2021-02-10T12:00:00+07:00",
+        "thumbnailURL": "https://giobus.github.io/animaletto/thumbnail.png",
+        "bannerImageURL" : "https://giobus.github.io/animaletto/previewImage2.png",
+        "additionalInformation" : [
+                                    {
+                                    "name": "Pensato per",
+                                    "value": "scuola secondaria di primo grado"
+                                    }
+                                    ],
+        "previewImageURLs" : ["https://giobus.github.io/animaletto/previewImage1.png","https://giobus.github.io/animaletto/previewImage2.png"]
     }
 ]
 }
